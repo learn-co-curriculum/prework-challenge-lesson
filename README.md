@@ -11,9 +11,7 @@ A 1-2 sentence summary of what will be covered.
 
 ## Topic 1
 
-Discuss the topic of the reading. Break into sections and sub-sections as
-appropriate to help with the reader's orientation with the material and future
-referencing.
+<iframe width="800" height="800" src="https://linda-seiter.github.io/prework-challenge/">
 
 ## Topic 2
 

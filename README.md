@@ -2,16 +2,8 @@
 
 ## Sample playground: editor + console
 
-blah blah
-
-<iframe width="800" height="400" src="https://playground-app-chi.vercel.app/lesson1/playground2"></iframe>
-
-blah blah
+<iframe width="800" height="400" src="https://playground-app-chi.vercel.app/lesson1/playground1"></iframe>
 
 ## Sample playground: editor + tests + console
 
-blah blah blah
-
-<iframe width="800" height="400" src="https://playground-app-chi.vercel.app/lesson1/playground1"></iframe>
-
-blah blah blah
+<iframe width="800" height="400" src="https://playground-app-chi.vercel.app/lesson1/playground2"></iframe>
